@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "name": "Dell Inspiron 15",
+        "brand": "Dell",
+        "serviceDate": "2024-03-01",
+        "description": "A reliable laptop for office work."
+    },
+    {
+        "id": 2,
+        "author": "Jane Smith",
+        "name": "MacBook Pro 16",
+        "brand": "Apple",
+        "serviceDate": "2024-02-15",
+        "description": "A high-end laptop for professionals."
+    }
+]
